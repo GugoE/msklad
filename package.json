@@ -19,9 +19,11 @@
   },
   "homepage": "https://github.com/GugoE/msklad#readme",
   "devDependencies": {
+    "@types/node": "^17.0.16",
     "typescript": "^4.5.5"
   },
   "dependencies": {
-    "axios": "^0.25.0"
+    "axios": "^0.25.0",
+    "dotenv": "^16.0.0"
   }
 }
